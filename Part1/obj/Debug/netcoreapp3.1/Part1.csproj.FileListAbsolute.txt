@@ -1,0 +1,13 @@
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.exe
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.deps.json
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.json
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.dll
+C:\Users\ersin\source\repos\Homework1\Part1\bin\Debug\netcoreapp3.1\Part1.pdb
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.csprojAssemblyReference.cache
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.dll
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.pdb
+C:\Users\ersin\source\repos\Homework1\Part1\obj\Debug\netcoreapp3.1\Part1.genruntimeconfig.cache
